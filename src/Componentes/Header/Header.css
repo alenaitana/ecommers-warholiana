@@ -1,0 +1,11 @@
+Header{
+    background-color: rgb(7, 204, 138);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 05%;
+    margin: 6px;
+}
