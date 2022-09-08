@@ -2,5 +2,10 @@
 a{
     margin: 50px;
     text-decoration: none;
-    
+}
+
+nav{
+    border: 3px;
+    border-radius: 5px;
+    border-color: aqua;
 }
